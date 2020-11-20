@@ -10,13 +10,9 @@ Due to Coronavirus, campuses have been implmenting precautionary methods to keep
 Creating a database that will be intended for unviersity students and adminstrators only to order/deliver food/restaurant services. 
 It will also include a rating system for both drivers and restaurants.
 
-
-
-
-
-
-
 Use Case for Rating System
+![Case Diagram](https://github.com/eterhonh/Database9/branch/path/to/CaseDiagram.png)
+
 Business Rules
 EERD (full database)
 MySQL Queries
