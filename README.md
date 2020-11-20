@@ -16,6 +16,9 @@ Use Case for Rating System
 
 Business Rules
 EERD (full database)
+
+<img width="592" alt="Screen Shot 2020-11-19 at 10 36 18 PM" src="https://user-images.githubusercontent.com/71344424/99755035-bb9de100-2ab7-11eb-9b4d-4daad5c89678.png">
+
 MySQL Queries
 Stored Procedure
 Web/App Implementation (Optional) or Description of Future Work
