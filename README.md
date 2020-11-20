@@ -11,7 +11,7 @@ Creating a database that will be intended for unviersity students and adminstrat
 It will also include a rating system for both drivers and restaurants.
 
 Use Case for Rating System
-![Case Diagram](https://github.com/eterhonh/Database9/branch/path/to/CaseDiagram.png)
+
 
 Business Rules
 EERD (full database)
