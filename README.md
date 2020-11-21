@@ -65,12 +65,22 @@ The rating must only come from one order, but a order can have one to many ratin
 
 #### Order and Person
 
+<img width="1279" alt="Screen Shot 2020-11-20 at 9 21 40 PM" src="https://user-images.githubusercontent.com/71344424/99865376-295d1200-2b77-11eb-81d7-b05612ec075e.png">
+
 #### Ratings and Restaurant
+
+<img width="1280" alt="Screen Shot 2020-11-20 at 9 21 49 PM" src="https://user-images.githubusercontent.com/71344424/99865384-3843c480-2b77-11eb-9fb3-54b6faf05727.png">
 
 #### Staff, Student and Vehicle
 
+<img width="1113" alt="Screen Shot 2020-11-20 at 9 22 39 PM" src="https://user-images.githubusercontent.com/71344424/99865391-4396f000-2b77-11eb-8e1e-2d11d236a573.png">
+
 MySQL Queries
+
 Stored Procedure
+
 Web/App Implementation (Optional) or Description of Future Work
+
 MySQL dump
+
 PPT Video (link)
