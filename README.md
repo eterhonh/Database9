@@ -47,7 +47,7 @@ The order must only come from one restaurant, but a restuarant can have one to m
 For the order database, we will include total price, delivery charge, the driver, and the delivery times. There also will be a unique identifier that ties the ID for the order at the restaurant. For the actual items on the order they will come from the restaurant database so we will not be responsible for that.
 
 #### E)Ratings
-There will be a rating system implemented into the database for persons to rate the order. The rating system will include a ratingid(PK), orderid(FK) driver rating, restaurant rating, driver comment, and restaurant comment. 
+There will be a rating system implemented into the database for persons to rate the order from 1 through 5. The rating system will include a ratingid(PK), orderid(FK) driver rating, restaurant rating, driver comment, and restaurant comment. 
 The rating must only come from one order, but a order can have one to many ratings becuase of multiple people have many orders.
 
 ### EERD (full database)
