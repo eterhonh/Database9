@@ -55,6 +55,9 @@ The rating must only come from one order, but a order can have one to many ratin
 <img width="592" alt="Screen Shot 2020-11-19 at 10 36 18 PM" src="https://user-images.githubusercontent.com/71344424/99755035-bb9de100-2ab7-11eb-9b4d-4daad5c89678.png">
 
 ### DATA DICTIONARY
+#### Delivery and Driver
+
+<img width="1280" alt="Screen Shot 2020-11-20 at 9 21 18 PM" src="https://user-images.githubusercontent.com/71344424/99865275-adfb6080-2b76-11eb-9b4a-d77d069ad326.png">
 
 MySQL Queries
 Stored Procedure
