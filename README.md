@@ -13,6 +13,8 @@ It will also include a rating system for both drivers and restaurants.
 
 ### CASE DIAGRAM FOR RATING SYSTEM
 
+As demonstrated in the image below, the use case diagram shows how the customers will interact with the rating system. Accordingly, the customer will place an order and once their food is recieved, the customer can start the rating process. The customer will then rate the driver from a scale of 1-5, followed by an optional comment. Next, the customer will rate the restaurant from a scale of 1-5 (similar to the driver scale), also followed by an optional comment for the restaurant. After each rating process for both the driver and restaurant the administrators then recieve the information to organize and list both the restaurants  and drivers with average, max, and min ratings. Lastly, The data collected results in the customer having the option to search for the ratings on a particular restaurant organized by average, max, and min ratings.
+
 <img width="656" alt="Screen Shot 2020-11-19 at 3 42 19 PM" src="https://user-images.githubusercontent.com/71344424/99754185-e1c28180-2ab5-11eb-9f0c-44206460910d.png">
 
 ### BUSINESS RULE
