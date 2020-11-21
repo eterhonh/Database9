@@ -59,6 +59,16 @@ The rating must only come from one order, but a order can have one to many ratin
 
 <img width="1280" alt="Screen Shot 2020-11-20 at 9 21 18 PM" src="https://user-images.githubusercontent.com/71344424/99865275-adfb6080-2b76-11eb-9b4a-d77d069ad326.png">
 
+#### Faculty and Location
+
+<img width="1279" alt="Screen Shot 2020-11-20 at 9 21 28 PM" src="https://user-images.githubusercontent.com/71344424/99865320-d97e4b00-2b76-11eb-945a-9c39df1d8191.png">
+
+#### Order and Person
+
+#### Ratings and Restaurant
+
+#### Staff, Student and Vehicle
+
 MySQL Queries
 Stored Procedure
 Web/App Implementation (Optional) or Description of Future Work
