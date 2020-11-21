@@ -11,11 +11,11 @@ Due to Coronavirus, campuses have been implmenting precautionary methods to keep
 Creating a database that will be intended for unviersity students and adminstrators only to order/deliver food/restaurant services. 
 It will also include a rating system for both drivers and restaurants.
 
-### Case Diagram for Rating System
+### CASE DIAGRAM FOR RATING SYSTEM
 
 <img width="656" alt="Screen Shot 2020-11-19 at 3 42 19 PM" src="https://user-images.githubusercontent.com/71344424/99754185-e1c28180-2ab5-11eb-9f0c-44206460910d.png">
 
-### Business Rules
+### BUSINESS RULE
 
 #### A)Person
 Persons (campus faculty, staff, students) have accounts in the system with personid (PK), name, email, and cell. Only faculty, staff and students are included. One person (and only one) can be one or many of the Persons (campus faculty, staff, students or make an order.
