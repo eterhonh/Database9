@@ -191,4 +191,20 @@ This is the [ratings table dump file](SQLdumps/ratingsdump). Below is an image t
 
 The ratings table consists of the driver rating (1-5), restuarant rating (1-5), driver comment, and restuarant comment.
 
+### RELATIONSHIPS
+
+#### deliveryId (fk: order)
+
+#### driverId (fk:order, delivery)
+
+#### locationId (fk:order)
+
+#### orderId (fk:ratings)
+
+#### personId (fk: order, faculty, student)
+
+#### restaurantId (fk: order)
+
+#### vehicleId (fk: delivery)
+
 PPT Video (link)
