@@ -242,8 +242,8 @@ In the image below, the box highlighted in green shows the primary key vehicle_i
 
 
 
-###Stored Procedure
+### Stored Procedure
 
-###Web/App Implementation (Optional) or Description of Future Work
+### Web/App Implementation (Optional) or Description of Future Work
 
-###PPT Video (link)
+### PPT Video (link)
