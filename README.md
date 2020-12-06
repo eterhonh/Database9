@@ -197,7 +197,7 @@ The ratings table consists of the driver rating (1-5), restuarant rating (1-5), 
 
 In the image below, the box highlighted in green shows the primary key delivery_id in the delivery table. For the box highlighted in gold, it represents the foreign key in the order table:
 
-![rel-delvid](https://user-images.githubusercontent.com/61218535/101272186-ea72b300-3757-11eb-81c6-e8c2ad324d22.png)
+![rel-delvid (1)](https://user-images.githubusercontent.com/61218535/101274304-f156f100-376a-11eb-9175-8c4e1b98bfa4.png)
 
 #### driver_id 
 
