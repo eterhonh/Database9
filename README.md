@@ -137,14 +137,42 @@ As shown by the image above, the table consists of important information for the
 
 #### Restaurant Table
 
+This is the restaurant table dump file. Below is an image that displays part of the populated restaurant table:
+
+<img width="1111" alt="restdump" src="https://user-images.githubusercontent.com/71344424/101269314-d325cc80-373b-11eb-9782-fde2fbc28968.png">
+
+The image partially shows the restaurants available to order from, which consists of restaurants location, name, schedule, and website.
+
 #### Staff Table
+
+This is the staff table dump file. Below is an image that displays part of the populated staff table:
+
+<img width="330" alt="staffdump" src="https://user-images.githubusercontent.com/71344424/101269307-c2755680-373b-11eb-970e-43c6295b14ad.png">
+
+The image partially shows the staff, consisting of position and if they are either an administrator or not an administrator.
 
 #### Student Table
 
+This is the student table dump file. Below is an image that displays part of the student table:
+
+<img width="484" alt="studentdump" src="https://user-images.githubusercontent.com/71344424/101269300-b7222b00-373b-11eb-9f0b-d9b99b3ce500.png">
+
+The image partially shows students at the university that contains information specific to the student which consists of their graduation year, major, and level type.
+
 #### Vehicle Table
+
+This is the vehicle table dump file. Below is an image that displays part of the vehicle table:
+
+<img width="287" alt="vehicledump" src="https://user-images.githubusercontent.com/71344424/101269293-a5d91e80-373b-11eb-9b8d-52175d676f9c.png">
+
+The table consists of everything that is needed for a vehicle such as, vehicle plate, model, and make type.
 
 #### Ratings Table
 
+This is the ratings table dump file. Below is an image that displays part of the ratings table:
+
 <img width="602" alt="ratingsdump" src="https://user-images.githubusercontent.com/61218535/101268996-80e2ac80-3737-11eb-8a45-74253d478924.png">
+
+The ratings table consists of the driver rating (1-5), restuarant rating (1-5), driver comment, and restuarant comment.
 
 PPT Video (link)
