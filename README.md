@@ -89,7 +89,7 @@ This is a dump of the UNCC Delivery schema that displays all the tables.
 
 #### Delivery Table
 
-This is the [Delivery table dump file](SQLdumps/deliverydump.md). Below is an image that displays part of the delivery table:
+This is the [Delivery table dump file](SQLdumps/deliverydump). Below is an image that displays part of the delivery table:
 
 <img width="377" alt="deliverydump" src="https://user-images.githubusercontent.com/61218535/101269228-b937ba00-373a-11eb-82e2-9727197bd5ae.png">
 
