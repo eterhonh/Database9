@@ -195,7 +195,8 @@ The ratings table consists of the driver rating (1-5), restuarant rating (1-5), 
 
 #### deliveryId (fk: order)
 
-![rel-driverid (1)](https://user-images.githubusercontent.com/61218535/101271859-c2ce1b80-3754-11eb-98a3-c45da6cbd8c5.png)
+![rel-deliveryid](https://user-images.githubusercontent.com/61218535/101271907-4ee04300-3755-11eb-93b4-a7568a3529b2.png)
+
 
 #### driverId (fk:order, delivery)
 
@@ -203,12 +204,23 @@ The ratings table consists of the driver rating (1-5), restuarant rating (1-5), 
 
 #### locationId (fk:order)
 
+![rel-locid](https://user-images.githubusercontent.com/61218535/101271896-2b1cfd00-3755-11eb-80fa-0b5e78cafc66.png)
+
 #### orderId (fk:ratings)
+
+![rel-orderid](https://user-images.githubusercontent.com/61218535/101271940-a7174500-3755-11eb-8af4-f66477249514.png)
 
 #### personId (fk: order, faculty, student)
 
+![rel-personid](https://user-images.githubusercontent.com/61218535/101272011-57854900-3756-11eb-98e0-24aa2e3e52f3.png)
+
 #### restaurantId (fk: order)
 
+![rel-restid](https://user-images.githubusercontent.com/61218535/101272040-99ae8a80-3756-11eb-9f83-b86d5f5e1c21.png)
+
 #### vehicleId (fk: delivery)
+
+![rel-vehicleid](https://user-images.githubusercontent.com/61218535/101272062-dd08f900-3756-11eb-9d7f-0e5a53cbf8fb.png)
+
 
 PPT Video (link)
