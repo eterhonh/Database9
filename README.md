@@ -83,8 +83,68 @@ Stored Procedure
 
 Web/App Implementation (Optional) or Description of Future Work
 
-MySQL dump
+### MySQL DUMP
 
-This is the UNCC dump file
+This is a dump of the UNCC Delivery schema that displays all the tables.
+
+#### Delivery Table
+
+This is the [Delivery table dump file]. Below is an image that displays part of the delivery table:
+
+<img width="377" alt="deliverydump" src="https://user-images.githubusercontent.com/61218535/101269228-b937ba00-373a-11eb-82e2-9727197bd5ae.png">
+
+As shown by the image above, the table consists of everthing specific to the delivery which includes the Delivery ID, Driver ID, Vehicle ID, and Delivery Time.
+
+#### Drivers Table
+
+This is the [Driver table dump file]. Below is an image that displays part of the populated driver table:
+
+<img width="378" alt="driverdump" src="https://user-images.githubusercontent.com/61218535/101269310-cd2feb80-373b-11eb-90c5-477e36c1929b.png">
+
+In the image above, it contains information regarding the driver for the delevery services. This information includes the Driver ID, Student ID, License Number, Date Hired and the Driver Rating.
+
+#### Faculty Table
+
+This is the [Faculty table dump file]. This table consists of everything specific to employees who are faculty members of the university which includes their IDs(faculty and person), Title, Highest Degree and College of their Degree. 
+
+<img width="485" alt="facultydump" src="https://user-images.githubusercontent.com/61218535/101269368-46c7d980-373c-11eb-9dcf-9a9693688187.png">
+
+
+#### Locations Table
+
+This is the [locations table dump file]. Below is an image that displays part of the populated locations table:
+
+<img width="1028" alt="locationdump" src="https://user-images.githubusercontent.com/61218535/101269419-bd64d700-373c-11eb-99bf-4fb7597b2cc6.png">
+
+As shown in the image above, it displays the information for the deliverable location on campus, which includes the Locations ID, Name, Address, Latitude and longitude and the Drop off Point.
+
+#### Orders Table
+
+This is the [order table dump file]. Below is an image that displays part of the populated orders table:
+
+<img width="633" alt="orderdump" src="https://user-images.githubusercontent.com/61218535/101269472-395f1f00-373d-11eb-815a-5524c8a64c7f.png">
+
+in the image above, the orders table consists of information relevant to the orders placed which includes the IDs(order, person, delivery, location, driver, and restaurant), the Total Price, and Delevery Fee.
+
+
+#### Person Table
+
+This is the [person table dump file]. Below is an image that displays part of the populated person table:
+
+<img width="609" alt="persondump" src="https://user-images.githubusercontent.com/61218535/101269476-42e88700-373d-11eb-8d6e-45b302985193.png">
+
+As shown by the image above, the table consists of important information for the person placing their order, which includes the Person ID, Name, Email, and Number.
+
+#### Restaurant Table
+
+#### Staff Table
+
+#### Student Table
+
+#### Vehicle Table
+
+#### Ratings Table
+
+<img width="602" alt="ratingsdump" src="https://user-images.githubusercontent.com/61218535/101268996-80e2ac80-3737-11eb-8a45-74253d478924.png">
 
 PPT Video (link)
