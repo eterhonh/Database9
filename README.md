@@ -77,7 +77,23 @@ The rating must only come from one order, but a order can have one to many ratin
 
 <img width="1113" alt="Screen Shot 2020-11-20 at 9 22 39 PM" src="https://user-images.githubusercontent.com/71344424/99865391-4396f000-2b77-11eb-8e1e-2d11d236a573.png">
 
-MySQL Queries
+### MySQL QUERIES
+
+#### Simplified Views
+
+#### 1. ORDER BY total_price descending for the ratings and order tables
+
+This first view is a ORDER BY query consisting of the ratings and order tables, where driver_rating is 5 and this is the [view file](simp1.sql). Below is an image of what the view displays:
+
+<img width="391" alt="simp1" src="https://user-images.githubusercontent.com/61218535/101271017-163c6b80-374d-11eb-824b-8be14bf62052.png">
+
+#### Advanced Views
+
+#### 1. WHERE total_price is greater than $5 and ratings_id is greater than 3
+
+This advanced view displays two AND statements by obtaining data from two tables, which are order and rating tables and this is the [view file](adva1.sql). In the image below the view displays:
+
+<img width="391" alt="Adva1" src="https://user-images.githubusercontent.com/61218535/101271021-1dfc1000-374d-11eb-8276-924888066d25.png">
 
 Stored Procedure
 
