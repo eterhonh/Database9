@@ -200,7 +200,7 @@ The ratings table consists of the driver rating (1-5), restuarant rating (1-5), 
 
 #### driverId (fk:order, delivery)
 
-![rel-driverid](https://user-images.githubusercontent.com/61218535/101271842-9a462180-3754-11eb-929e-0ad8a04c37d8.png)
+![rel-drivid](https://user-images.githubusercontent.com/61218535/101272150-98319200-3757-11eb-92a1-62df26d37821.png)
 
 #### locationId (fk:order)
 
