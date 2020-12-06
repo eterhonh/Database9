@@ -193,32 +193,45 @@ The ratings table consists of the driver rating (1-5), restuarant rating (1-5), 
 
 ### RELATIONSHIPS
 
-#### deliveryId (fk: order)
+#### delivery_id 
 
-![rel-deliveryid](https://user-images.githubusercontent.com/61218535/101271907-4ee04300-3755-11eb-93b4-a7568a3529b2.png)
+In the image below, the box highlighted in green shows the primary key delivery_id in the delivery table. For the box highlighted in gold, it represents the foreign key in the order table:
 
+![rel-delvid](https://user-images.githubusercontent.com/61218535/101272186-ea72b300-3757-11eb-81c6-e8c2ad324d22.png)
 
-#### driverId (fk:order, delivery)
+#### driver_id 
+
+In the image below, the box highlighted in green shows the primary key driver_id in the driver table. For the boxes highlighted in gold, it represents the foreign keys in the order and delivery tables:
 
 ![rel-drivid](https://user-images.githubusercontent.com/61218535/101272150-98319200-3757-11eb-92a1-62df26d37821.png)
 
-#### locationId (fk:order)
+#### location_id 
+
+In the image below it shows the primary key location_id outlined in green found in the location table. The location_id foreign key in the order table is outlined in gold:
 
 ![rel-locid](https://user-images.githubusercontent.com/61218535/101271896-2b1cfd00-3755-11eb-80fa-0b5e78cafc66.png)
 
-#### orderId (fk:ratings)
+#### order_id
+
+The image below displays the primary key of order_id highlighted in green in the orders table. The foreign key is located in the ratings table that is highlighted in gold:
 
 ![rel-orderid](https://user-images.githubusercontent.com/61218535/101271940-a7174500-3755-11eb-8af4-f66477249514.png)
 
-#### personId (fk: order, faculty, student)
+#### person_id 
+
+The image below shows the primary key person_id outlined in green which is located in the person table. The foreign keys are outlined in gold that is displayed in the order, faculty, and student tables:
 
 ![rel-personid](https://user-images.githubusercontent.com/61218535/101272011-57854900-3756-11eb-98e0-24aa2e3e52f3.png)
 
-#### restaurantId (fk: order)
+#### restaurant_id
+
+In the image below, the primary key restaurant_id is outlined in green which is located in the restaurant table. The foreign key that is outlined in gold is shown in the order table:
 
 ![rel-restid](https://user-images.githubusercontent.com/61218535/101272040-99ae8a80-3756-11eb-9f83-b86d5f5e1c21.png)
 
-#### vehicleId (fk: delivery)
+#### vehicle_id
+
+In the image below, the box highlighted in green shows the primary key vehicle_id in the vehicle table. For the box highlighted in gold, it represents the foreign key in the delivery table:
 
 ![rel-vehicleid](https://user-images.githubusercontent.com/61218535/101272062-dd08f900-3756-11eb-9d7f-0e5a53cbf8fb.png)
 
