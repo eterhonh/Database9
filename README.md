@@ -97,7 +97,7 @@ As shown by the image above, the table consists of everthing specific to the del
 
 #### Drivers Table
 
-This is the [Driver table dump file]. Below is an image that displays part of the populated driver table:
+This is the [Driver table dump file](SQLdumps/driverdump). Below is an image that displays part of the populated driver table:
 
 <img width="378" alt="driverdump" src="https://user-images.githubusercontent.com/61218535/101269310-cd2feb80-373b-11eb-90c5-477e36c1929b.png">
 
@@ -105,14 +105,14 @@ In the image above, it contains information regarding the driver for the delever
 
 #### Faculty Table
 
-This is the [Faculty table dump file]. This table consists of everything specific to employees who are faculty members of the university which includes their IDs(faculty and person), Title, Highest Degree and College of their Degree. 
+This is the [Faculty table dump file](SQLdumps/facultydump). This table consists of everything specific to employees who are faculty members of the university which includes their IDs(faculty and person), Title, Highest Degree and College of their Degree. 
 
 <img width="485" alt="facultydump" src="https://user-images.githubusercontent.com/61218535/101269368-46c7d980-373c-11eb-9dcf-9a9693688187.png">
 
 
 #### Locations Table
 
-This is the [locations table dump file]. Below is an image that displays part of the populated locations table:
+This is the [locations table dump file](SQLdumps/locationdump). Below is an image that displays part of the populated locations table:
 
 <img width="1028" alt="locationdump" src="https://user-images.githubusercontent.com/61218535/101269419-bd64d700-373c-11eb-99bf-4fb7597b2cc6.png">
 
@@ -120,7 +120,7 @@ As shown in the image above, it displays the information for the deliverable loc
 
 #### Orders Table
 
-This is the [order table dump file]. Below is an image that displays part of the populated orders table:
+This is the [order table dump file](SQLdumps/orderdump). Below is an image that displays part of the populated orders table:
 
 <img width="633" alt="orderdump" src="https://user-images.githubusercontent.com/61218535/101269472-395f1f00-373d-11eb-815a-5524c8a64c7f.png">
 
@@ -129,7 +129,7 @@ in the image above, the orders table consists of information relevant to the ord
 
 #### Person Table
 
-This is the [person table dump file]. Below is an image that displays part of the populated person table:
+This is the [person table dump file](SQLdumps/persondump). Below is an image that displays part of the populated person table:
 
 <img width="609" alt="persondump" src="https://user-images.githubusercontent.com/61218535/101269476-42e88700-373d-11eb-8d6e-45b302985193.png">
 
@@ -137,7 +137,7 @@ As shown by the image above, the table consists of important information for the
 
 #### Restaurant Table
 
-This is the restaurant table dump file. Below is an image that displays part of the populated restaurant table:
+This is the [restaurant table dump file](SQLdumps/restdump). Below is an image that displays part of the populated restaurant table:
 
 <img width="1111" alt="restdump" src="https://user-images.githubusercontent.com/71344424/101269314-d325cc80-373b-11eb-9782-fde2fbc28968.png">
 
@@ -145,7 +145,7 @@ The image partially shows the restaurants available to order from, which consist
 
 #### Staff Table
 
-This is the staff table dump file. Below is an image that displays part of the populated staff table:
+This is the [staff table dump file](SQLdumps/staffdump). Below is an image that displays part of the populated staff table:
 
 <img width="330" alt="staffdump" src="https://user-images.githubusercontent.com/71344424/101269307-c2755680-373b-11eb-970e-43c6295b14ad.png">
 
@@ -153,7 +153,7 @@ The image partially shows the staff, consisting of position and if they are eith
 
 #### Student Table
 
-This is the student table dump file. Below is an image that displays part of the student table:
+This is the [student table dump file](SQLdumps/studentdump). Below is an image that displays part of the student table:
 
 <img width="484" alt="studentdump" src="https://user-images.githubusercontent.com/71344424/101269300-b7222b00-373b-11eb-9f0b-d9b99b3ce500.png">
 
@@ -161,7 +161,7 @@ The image partially shows students at the university that contains information s
 
 #### Vehicle Table
 
-This is the vehicle table dump file. Below is an image that displays part of the vehicle table:
+This is the [vehicle table dump file](SQLdumps/vehicledump). Below is an image that displays part of the vehicle table:
 
 <img width="287" alt="vehicledump" src="https://user-images.githubusercontent.com/71344424/101269293-a5d91e80-373b-11eb-9b8d-52175d676f9c.png">
 
@@ -169,7 +169,7 @@ The table consists of everything that is needed for a vehicle such as, vehicle p
 
 #### Ratings Table
 
-This is the ratings table dump file. Below is an image that displays part of the ratings table:
+This is the [ratings table dump file](SQLdumps/ratingsdump). Below is an image that displays part of the ratings table:
 
 <img width="602" alt="ratingsdump" src="https://user-images.githubusercontent.com/61218535/101268996-80e2ac80-3737-11eb-8a45-74253d478924.png">
 
