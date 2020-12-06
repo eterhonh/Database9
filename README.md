@@ -17,6 +17,7 @@ As demonstrated in the image below, the use case diagram shows how the customers
 
 <img width="656" alt="Screen Shot 2020-11-19 at 3 42 19 PM" src="https://user-images.githubusercontent.com/71344424/99754185-e1c28180-2ab5-11eb-9f0c-44206460910d.png">
 
+
 ### BUSINESS RULE
 
 #### A.Person
@@ -56,7 +57,9 @@ The rating must only come from one order, but a order can have one to many ratin
 
 <img width="592" alt="Screen Shot 2020-11-19 at 10 36 18 PM" src="https://user-images.githubusercontent.com/71344424/99755035-bb9de100-2ab7-11eb-9b4d-4daad5c89678.png">
 
+
 ### DATA DICTIONARY
+
 #### Delivery and Driver
 
 <img width="1280" alt="Screen Shot 2020-11-20 at 9 21 18 PM" src="https://user-images.githubusercontent.com/71344424/99865275-adfb6080-2b76-11eb-9b4a-d77d069ad326.png">
@@ -77,6 +80,7 @@ The rating must only come from one order, but a order can have one to many ratin
 
 <img width="1113" alt="Screen Shot 2020-11-20 at 9 22 39 PM" src="https://user-images.githubusercontent.com/71344424/99865391-4396f000-2b77-11eb-8e1e-2d11d236a573.png">
 
+
 ### MySQL QUERIES
 
 #### Simplified Views
@@ -95,9 +99,6 @@ This advanced view displays two AND statements by obtaining data from two tables
 
 <img width="391" alt="Adva1" src="https://user-images.githubusercontent.com/61218535/101271021-1dfc1000-374d-11eb-8276-924888066d25.png">
 
-Stored Procedure
-
-Web/App Implementation (Optional) or Description of Future Work
 
 ### MySQL DUMP
 
@@ -117,13 +118,16 @@ This is the [Driver table dump file](SQLdumps/driverdump). Below is an image tha
 
 <img width="378" alt="driverdump" src="https://user-images.githubusercontent.com/61218535/101269310-cd2feb80-373b-11eb-90c5-477e36c1929b.png">
 
-In the image above, it contains information regarding the driver for the delevery services. This information includes the Driver ID, Student ID, License Number, Date Hired and the Driver Rating.
+A shown the image above, it contains information regarding the driver for the delevery services. This information includes the Driver ID, Student ID, License Number, Date Hired and the Driver Rating.
 
 #### Faculty Table
 
-This is the [Faculty table dump file](SQLdumps/facultydump). This table consists of everything specific to employees who are faculty members of the university which includes their IDs(faculty and person), Title, Highest Degree and College of their Degree. 
+This is the [Faculty table dump file](SQLdumps/facultydump). Below is an image that displays part of the populated faculty table:
+
 
 <img width="485" alt="facultydump" src="https://user-images.githubusercontent.com/61218535/101269368-46c7d980-373c-11eb-9dcf-9a9693688187.png">
+
+As shown by the image above, the table consists of everything specific to employees who are faculty members of the university which includes their IDs(faculty and person), Title, Highest Degree and College of their Degree. 
 
 
 #### Locations Table
@@ -140,7 +144,7 @@ This is the [order table dump file](SQLdumps/orderdump). Below is an image that 
 
 <img width="633" alt="orderdump" src="https://user-images.githubusercontent.com/61218535/101269472-395f1f00-373d-11eb-815a-5524c8a64c7f.png">
 
-in the image above, the orders table consists of information relevant to the orders placed which includes the IDs(order, person, delivery, location, driver, and restaurant), the Total Price, and Delevery Fee.
+As shown the image above, the orders table consists of information relevant to the orders placed which includes the IDs(order, person, delivery, location, driver, and restaurant), the Total Price, and Delevery Fee.
 
 
 #### Person Table
@@ -191,6 +195,7 @@ This is the [ratings table dump file](SQLdumps/ratingsdump). Below is an image t
 
 The ratings table consists of the driver rating (1-5), restuarant rating (1-5), driver comment, and restuarant comment.
 
+
 ### RELATIONSHIPS
 
 #### delivery_id 
@@ -236,4 +241,9 @@ In the image below, the box highlighted in green shows the primary key vehicle_i
 ![rel-vehicleid](https://user-images.githubusercontent.com/61218535/101272062-dd08f900-3756-11eb-9d7f-0e5a53cbf8fb.png)
 
 
-PPT Video (link)
+
+###Stored Procedure
+
+###Web/App Implementation (Optional) or Description of Future Work
+
+###PPT Video (link)
