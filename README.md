@@ -99,14 +99,17 @@ This second view displays two AND statements by obtaining data from two tables, 
 
 #### Advanced Views
 
-#### 1. CASE WHEN statement for the order and ratings table
+#### 1. CASE WHEN statement for the order and ratings tables
 
 In this advanced view it displays a CASE WHEN statements, it uses the driver_rating from the ratings table to determine if the driver_ratings fits into one of the categories. The first category is a driver score of 1-3 and will produce a output of "Try again next time". The second category is for a driver score of 4-5, which produces the output of "Great Job". This is the [view file](drivescoreAdv.sql), attached below is an image of the table based on the view:
 
 <img width="611" alt="Screen Shot 2020-12-13 at 2 22 43 PM" src="https://user-images.githubusercontent.com/61218535/102021582-bba79e80-3d4e-11eb-9f2b-d9191ca12833.png">
 
-#### 2. 
+#### 2. CASE WHEN statement for the order,ratings and restaurant tables with ORDER BY descending restaurant table
 
+In this second advanced view it displays a CASE WHEN statements, it uses the restaurant_rating from the ratings table to determine if the restaurant_ratings fits into one of the categories. The first category is a restaurant score of 1-3 and will produce a output of "Try again next time". The second category is for a restaurant score of 4-5, which produces the output of "Great Job". It also uses ORDER BY statement to display the results in a descending order using the restaurant table. This is the [view file](restscoreAdv.sql), attached below is an image of the table based on the view:
+
+<img width="792" alt="Screen Shot 2020-12-13 at 2 44 01 PM" src="https://user-images.githubusercontent.com/61218535/102022084-6cfc0380-3d52-11eb-84c5-119268722b11.png">
 
 ### MySQL DUMP
 
