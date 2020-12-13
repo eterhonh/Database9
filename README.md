@@ -91,13 +91,21 @@ This first view is a ORDER BY query consisting of the ratings and order tables, 
 
 <img width="391" alt="simp1" src="https://user-images.githubusercontent.com/61218535/101271017-163c6b80-374d-11eb-824b-8be14bf62052.png">
 
-#### Advanced Views
+#### 2. WHERE total_price is greater than $5 and ratings_id is greater than 3
 
-#### 1. WHERE total_price is greater than $5 and ratings_id is greater than 3
-
-This advanced view displays two AND statements by obtaining data from two tables, which are order and rating tables and this is the [view file](adva1.sql). In the image below the view displays:
+This second view displays two AND statements by obtaining data from two tables, which are order and rating tables and this is the [view file](adva1.sql). In the image below the view displays:
 
 <img width="391" alt="Adva1" src="https://user-images.githubusercontent.com/61218535/101271021-1dfc1000-374d-11eb-8276-924888066d25.png">
+
+#### Advanced Views
+
+#### 1. CASE WHEN statement for the order and ratings table
+
+In this advanced view it displays a CASE WHEN statements, it uses the driver_rating from the ratings table to determine if the driver_ratings fits into one of the categories. The first category is a driver score of 1-3 and will produce a output of "Try again next time". The second category is for a driver score of 4-5, which produces the output of "Great Job". This is the [view file](drivescoreAdv.sql), attached below is an image of the table based on the view:
+
+<img width="611" alt="Screen Shot 2020-12-13 at 2 22 43 PM" src="https://user-images.githubusercontent.com/61218535/102021582-bba79e80-3d4e-11eb-9f2b-d9191ca12833.png">
+
+#### 2. 
 
 
 ### MySQL DUMP
