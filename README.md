@@ -244,6 +244,13 @@ In the image below, the box highlighted in green shows the primary key vehicle_i
 
 ### Stored Procedure
 
+For this stored procedure, it detects the best driver rating (for 4 or 5) that the person rated the drive. It will let us know if they recieved a 4 or 5 rating to send out a notification to the driver stating "Keep up the work!". Click [here](storedprocedure.sql) to view the stored procedure.
+
+
 ### Web/App Implementation (Optional) or Description of Future Work
+
+We will eventually create a website and delivery app.
+There will be more delivery personnels and expansion of approved restaurants in the future resulting to more ratings.
+
 
 ### PPT Video (link)
